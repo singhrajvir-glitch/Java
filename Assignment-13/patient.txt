@@ -1,0 +1,14 @@
+Patient ID: 201
+Name: Rahul
+Age: 25
+Diagnosis: Fever
+
+Patient ID: 202
+Name: Amit
+Age: 30
+Diagnosis: Cold
+
+Patient ID: 203
+Name: Priya
+Age: 28
+Diagnosis: Flu
